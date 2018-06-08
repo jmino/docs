@@ -1,4 +1,4 @@
-#Setup Eclipse for Hadoop Development Using Maven on Windows
+# Setup Eclipse for Hadoop Development Using Maven on Windows
 
 Julian Mino  
 10/17/2013
@@ -115,7 +115,7 @@ In Eclipse, right click SEIS736 and select Refresh. Then you will see a jar file
 C:\Users\username\workspace\SEIS736> mvn install
 `
 
-####References
+#### References
 
 1. [To Install the JDK Software and Set JAVA_HOME on a Windows System](http://docs.oracle.com/cd/E21454_01/html/821-2532/inst_cli_jdk_javahome_t.html#inst_cli_set_jdk_windows_t)
 
